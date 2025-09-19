@@ -7,7 +7,7 @@ Oi! Eu sou **Alexchê Hérica (Tchê)**, estudante de Ciências da Computação 
 
 ## 🚀 Meus objetivos
 - Completar toda a trilha do bootcamp  
-- Aprender mais sobre HTML  
+- Aprender mais sobre APIs,Spring Boot e Angular  
 - Garantir meu certificado
 
 ## 📁 O que tem aqui 
@@ -20,7 +20,7 @@ Basta explorar as pastas `projects/` e `certificates/`! Cada projeto tem um READ
 ## 🔧 Ferramentas que uso
 - Git e GitHub  
 - Editor: VSCode  
-- Tecnologias: JavaScript  
+- Tecnologias: APIs,Spring Boot e Angular    
 
 ## 📬 Quer falar comigo?
 - LinkedIn: https://www.linkedin.com/in/alexcheherica  
